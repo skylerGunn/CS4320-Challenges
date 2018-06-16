@@ -5,7 +5,7 @@
 
 [Connect with me on LinkedIn!](https://www.linkedin.com/in/zimmerjl/ "My LinkedIn profile")
 
-![espresso.jpg](espresso.jpg "An espresso in Port-au-Prince")
+![espresso.jpg](espresso.JPG "An espresso in Port-au-Prince")
 
 ![circle_game.jpg](http://i0.kym-cdn.com/entries/icons/original/000/012/748/circle.jpg "You looked!")
 
