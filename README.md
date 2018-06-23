@@ -1,5 +1,6 @@
 # CS4320-Challenges
-## Jacob Zimmer, University of Missouri, Summer 2018
+### Jacob Zimmer, University of Missouri, Summer 2018
+___
 
 #### [Challenge 1: Github and Markdown](/Challenge1/challenge1.md "Link to challenge content")
 
@@ -66,3 +67,5 @@ ___
 - Exception: No user intervention occurs when alarm noise sounds
     1. Alarm clock ceases to make noise after two minutes of inactivity
     2. User misses their appointment
+
+___
